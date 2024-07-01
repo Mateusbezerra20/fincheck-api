@@ -32,6 +32,13 @@
 $ npm install
 ```
 
+## Running postgres and migrations
+
+```bash
+$ npm run services:up
+$ npx migrate dev
+```
+
 ## Running the app
 
 ```bash
