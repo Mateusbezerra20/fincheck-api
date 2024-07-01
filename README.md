@@ -36,7 +36,8 @@ $ npm install
 
 ```bash
 $ npm run services:up
-$ npx migrate dev
+
+$ npx prisma migrate dev
 ```
 
 ## Running the app
